@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d01fd2d64a9249049aaa77d5c12a82fe, type: 3}
+  m_Name: e-8
+  m_EditorClassIdentifier: 
+  questionText: 'Who invented the first simple microscope?
+
+'
+  referenceImage: {fileID: 0}
+  explanationText: 'Solution: Antonie van Leeuwenhoek, a Dutch scientist, invented
+    the first simple microscope. It consisted of a small single high-powered converging
+    lens used to observe tiny microorganisms in freshwater.
+
+'
+  options:
+  - 'Robert Hooke '
+  - Girolamo Fracastoro
+  - 'Kepler and Galileo '
+  - 'Antonie van Leeuwenhoek '
+  correctOptionIndex: 3

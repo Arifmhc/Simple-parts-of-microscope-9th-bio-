@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d01fd2d64a9249049aaa77d5c12a82fe, type: 3}
+  m_Name: e-2
+  m_EditorClassIdentifier: 
+  questionText: "The magnification of the simple microscope used is 10\xD7."
+  referenceImage: {fileID: 0}
+  explanationText: "Solution: In this experiment, a lens with 10\xD7 magnification
+    is used to observe a broad view of the permanent slide. With 5\xD7 magnification,
+    the components of the slide would not be clearly visible, while 20\xD7 magnification
+    would be too high, causing the components to appear overly focused."
+  options:
+  - '5X '
+  - 10X
+  - 15X
+  - 20X
+  correctOptionIndex: 1
