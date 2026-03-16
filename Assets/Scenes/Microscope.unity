@@ -14840,6 +14840,8 @@ MonoBehaviour:
           m_CallState: 2
   spawnOffset: {x: 0, y: 0.25, z: 0}
   spawnParent: {fileID: 983938508}
+  useRotationOffset: 0
+  rotationOffset: {x: 0, y: 0, z: 0}
   audioSource: {fileID: 983938510}
   enableDebug: 0
 --- !u!82 &983938510
@@ -20348,6 +20350,8 @@ MonoBehaviour:
           m_CallState: 2
   spawnOffset: {x: 0, y: 0.25, z: 0}
   spawnParent: {fileID: 1280422112}
+  useRotationOffset: 0
+  rotationOffset: {x: 0, y: 0, z: 0}
   audioSource: {fileID: 1280422114}
   enableDebug: 0
 --- !u!82 &1280422114
@@ -24072,6 +24076,8 @@ MonoBehaviour:
           m_CallState: 2
   spawnOffset: {x: 0, y: 0.25, z: 0}
   spawnParent: {fileID: 1498794230}
+  useRotationOffset: 0
+  rotationOffset: {x: 0, y: 0, z: 0}
   audioSource: {fileID: 1498794232}
   enableDebug: 0
 --- !u!82 &1498794232
