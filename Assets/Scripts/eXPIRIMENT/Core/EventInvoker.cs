@@ -1,16 +1,22 @@
-using UnityEngine;
-using UnityEngine.Events;
+using UnityEngine;
+using UnityEngine.Events;
+
 
-public class EventInvoker : MonoBehaviour
+namespace PartsOfSimpleMicroscope
 {
-
-    public UnityEvent myEvent;
-     
-    public void InvokeMyEvent()
-    {
-        if (myEvent != null)
-        {
-            myEvent.Invoke();
-        }
-    }
+    public class EventInvoker : MonoBehaviour
+    {
+    
+        public UnityEvent myEvent;
+         
+        public void InvokeMyEvent()
+        {
+            if (myEvent != null)
+            {
+                myEvent.Invoke();
+            }
+        }
+    }
+    
+    
 }
